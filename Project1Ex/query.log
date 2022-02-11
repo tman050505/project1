@@ -1,0 +1,2 @@
+Executing 'SELECT COUNT(*) FROM admins WHERE adminName='' AND adminPassword='');
+Executing 'SELECT COUNT(*) FROM admins WHERE adminName='admin' AND adminPassword='password');
